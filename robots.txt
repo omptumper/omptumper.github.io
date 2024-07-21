@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omptumper.github.io/sitemap
+Sitemap: https://omptumper.github.io/app/sitemap
+Sitemap: https://omptumper.github.io/assets/sitemap
+Sitemap: https://omptumper.github.io/css/sitemap
+Sitemap: https://omptumper.github.io/includes/sitemap
+Sitemap: https://omptumper.github.io/item/sitemap
+Sitemap: https://omptumper.github.io/src/sitemap
